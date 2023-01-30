@@ -1,5 +1,6 @@
 # Twixxl
-
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+![branch](https://img.shields.io/github/checks-status/twixxl/web-app/main)
 ## Description
 Twixxl is your platform to meet the world and everyone in between. Our services offer completely end-to-end encrypted messaging and call functionality between users. It's a combination of Twitter and Discord.
 
@@ -41,10 +42,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
 ## Features
 
