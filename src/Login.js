@@ -6,6 +6,7 @@ import { gapi } from "gapi-script";
 const Login = () => {
   return (
     <div className="relative flex flex-col justify-center min-h-screen overflow-hidden login-page">
+      <title>Twixxl - Login</title>
       <div className="w-96 p-6 m-auto container rounded-xl shadow-xl lg:max-w-xl">
         <h1 className="text-3xl font-bold text-center">Welcome Back!</h1>
         <p className="text-center">We're so excited to see you again!</p>
@@ -39,7 +40,7 @@ const Login = () => {
         <div className="flex mt-4 gap-x-2">
           <button
             type="button"
-            className="social flex items-center justify-center w-full p-2 border border-gray-600 rounded-md focus:ring-2 focus:ring-offset-1 focus:ring-violet-600"
+            className="social flex items-center justify-center w-full p-2 border border-gray-600 rounded-md focus:ring-2 focus:ring-offset-1 focus:ring-slate-900"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -50,7 +51,7 @@ const Login = () => {
             </svg>{" "}
             <label>Google</label>
           </button>
-          <button className="social flex items-center justify-center w-full p-2 border border-gray-600 rounded-md focus:ring-2 focus:ring-offset-1 focus:ring-violet-600">
+          <button className="social flex items-center justify-center w-full p-2 border border-gray-600 rounded-md focus:ring-2 focus:ring-offset-1 focus:ring-slate-900">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 32 32"
